@@ -1,0 +1,1 @@
+{"virtualbox":{"/var/www/html":{"guestpath":"/var/www/html","hostpath":"/Users/jackthorp/projects/php_starter/public","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"/Users/jackthorp/projects/php_starter","disabled":false,"__vagrantfile":true}}}
